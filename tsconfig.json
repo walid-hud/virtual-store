@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",              
+    "module": "nodenext",            
+    "rootDir": "./",                 
+    "outDir": "./dist",              
+    "strict": true,                  
+    "esModuleInterop": true,         
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "include": ["./index.ts"],          
+  "exclude": ["node_modules"]        
+}

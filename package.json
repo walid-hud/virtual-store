@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^8.0.1",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.9",
+    "@types/node": "^24.10.1"
+  }
+}
